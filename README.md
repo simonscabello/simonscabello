@@ -1,4 +1,4 @@
-# 👋 Olá, sou [Simon Scabello]!
+# 👋 Olá, sou Simon Scabello!
 
 Sou um desenvolvedor backend apaixonado por criar soluções de software poderosas e eficientes. Atualmente, trabalho na incrível empresa [UpCities](https://upcities.app/), onde desafios emocionantes são a norma.
 
