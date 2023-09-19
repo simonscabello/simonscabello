@@ -1,27 +1,28 @@
-# 👋 Olá, sou Simon Scabello!
+# 👋 Hello, I'm Simon Scabello!
 
-Sou um desenvolvedor backend apaixonado por criar soluções de software poderosas e eficientes. Atualmente, trabalho na incrível empresa [UpCities](https://upcities.app/), onde desafios emocionantes são a norma.
+I'm a passionate backend developer who loves creating powerful and efficient software solutions. Currently, I work at the amazing company [UpCities](https://upcities.app/), where exciting challenges are the norm.
 
-
-## 🚀 Linguagens e Ferramentas
-Aqui estão algumas das tecnologias que eu domino e utilizo diariamente:
+## 🚀 Languages and Tools
+Here are some of the technologies I master and use daily:
 
 - PHP | Laravel | Symfony
 - HTML5 | CSS | JavaScript
 - Docker | MySQL | Redis
-- Git | Pipelines
-- Linux | NGINX
+- Git | Bitbucket | Bitbucket Pipelines
+- Linux | NGINX | AWS
+- Postman | RESTful APIs
 
-## 📫 Vamos Colaborar!
-Estou sempre aberto a novas oportunidades de colaboração e projetos emocionantes. Se você está procurando alguém para se juntar à sua equipe ou trabalhar em um projeto interessante, não hesite em entrar em contato.
+## 📫 Let's Collaborate!
+I'm always open to new collaboration opportunities and exciting projects. If you're looking for someone to join your team or work on an interesting project, feel free to get in touch.
 
-Você pode me encontrar aqui no GitHub ou me enviar uma mensagem em [scabello57@gmail.com](mailto:scabello57@gmail.com).
+You can find me here on GitHub or send me a message at [scabello57@gmail.com](mailto:scabello57@gmail.com).
 
-## 🌟 Vamos Conectar!
-Vamos ficar em contato e explorar o mundo do desenvolvimento juntos:
+## 🌟 Let's Connect!
+Let's stay in touch and explore the world of development together:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/simon-scabello-b06b7716a/)
 
 ---
 
-⭐️ Obrigado por visitar meu perfil! Vamos criar algo incrível juntos! ⭐️
+⭐️ Thanks for visiting my profile! Let's create something amazing together! ⭐️
+
