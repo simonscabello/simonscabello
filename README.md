@@ -24,5 +24,5 @@ Let's stay in touch and explore the world of development together:
 
 ---
 
-⭐️ Thanks for visiting my profile! Let's create something amazing together! ⭐️
+⭐️ Thanks for visiting my profile! ⭐️
 
