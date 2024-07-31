@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Simon Scabello!
 
-I'm a passionate backend developer who loves creating powerful and efficient software solutions. Currently, I work at the amazing company [UpCities](https://upcities.app/), where exciting challenges are the norm.
+I'm a passionate backend developer who loves creating powerful and efficient software solutions. Currently, I work at the amazing company [VExpenses](https://vexpenses.com.br/), where exciting challenges are the norm.
 
 ## 🚀 Languages and Tools
 Here are some of the technologies I master and use daily:
 
-- PHP | Laravel | Symfony
+- PHP | Laravel | Node JS
 - HTML5 | CSS | JavaScript
 - Docker | MySQL | Redis
 - Git | Bitbucket | Bitbucket Pipelines
