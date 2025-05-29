@@ -1,6 +1,6 @@
 # Olá! Eu sou o Simon Scabello
 
-Sou um desenvolvedor backend apaixonado por criar soluções robustas, eficientes e escaláveis. Atualmente, atuo na [VExpenses](https://vexpenses.com.br/), enfrentando desafios empolgantes no desenvolvimento de sistemas modernos e distribuídos.
+Sou um desenvolvedor backend apaixonado por criar soluções robustas, eficientes e escaláveis.
 
 ## Tecnologias e Ferramentas
 
