@@ -1,28 +1,21 @@
-# 👋 Hello, I'm Simon Scabello!
+# Olá! Eu sou o Simon Scabello
 
-I'm a passionate backend developer who loves creating powerful and efficient software solutions. Currently, I work at the amazing company [VExpenses](https://vexpenses.com.br/), where exciting challenges are the norm.
+Sou um desenvolvedor backend apaixonado por criar soluções robustas, eficientes e escaláveis. Atualmente, atuo na [VExpenses](https://vexpenses.com.br/), enfrentando desafios empolgantes no desenvolvimento de sistemas modernos e distribuídos.
 
-## 🚀 Languages and Tools
-Here are some of the technologies I master and use daily:
+## Tecnologias e Ferramentas
 
-- PHP | Laravel | Node JS
-- HTML5 | CSS | JavaScript
-- Docker | MySQL | Redis
-- Git | Bitbucket | Bitbucket Pipelines
-- Linux | NGINX | AWS
-- Postman | RESTful APIs
+Tenho experiência sólida nas seguintes linguagens, frameworks e ferramentas:
 
-## 📫 Let's Collaborate!
-I'm always open to new collaboration opportunities and exciting projects. If you're looking for someone to join your team or work on an interesting project, feel free to get in touch.
+- **Linguagens e Frameworks:** PHP (Laravel), Node.js, Golang, NestJS 
+- **Banco de Dados e Mensageria:** PostgreSQL, MySQL, Redis, Kafka  
+- **DevOps e Infraestrutura:** Docker, NGINX, Linux, AWS  
+- **Versionamento e CI/CD:** Git, Bitbucket, Bitbucket Pipelines  
+- **APIs e Testes:** RESTful APIs, Postman
 
-You can find me here on GitHub or send me a message at [scabello57@gmail.com](mailto:scabello57@gmail.com).
+## Conecte-se Comigo
 
-## 🌟 Let's Connect!
-Let's stay in touch and explore the world of development together:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/simon-scabello-b06b7716a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue)](https://www.linkedin.com/in/simon-scabello-b06b7716a/)
 
 ---
 
-⭐️ Thanks for visiting my profile! ⭐️
-
+Obrigado por visitar meu perfil! Se curtir o que viu, fique à vontade para deixar uma estrela nos repositórios.
